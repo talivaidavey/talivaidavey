@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Davey Talivai 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to create my own website 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to create my own Custom Python Calculator.
+- 💞️ I’m looking to collaborate on my coding skills 
 - 📫 How to reach me just send me an email -davey.talivai@my.rongotai.school.nz
-- Im Working with Buno and Ollie
